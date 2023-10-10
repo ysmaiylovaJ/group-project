@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main_block {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10% 15%;
+}
+
+.Left_block {
+    display: flex;
+    flex-direction: column;
+}
+
+.main_pr {
+    font-size: 25px;
+}
+
+.right_block {
+    display: flex;
+    
+}
+
+.img {  
+    border-radius: 50px;
+}
+
+
+
+
+
